@@ -9,7 +9,7 @@
 
 ## 🔧 Tech Stack
 - **Frontend**: React.js, Next.js, EJS, HTML, CSS, JavaScript  
-- **Backend**: Node.js, Express.js  
+- **Backend**: Node.js, Express.js, Redis  
 - **Database**: MongoDB, MySQL  
 - **Other**: Git, REST APIs, Postman  
 
