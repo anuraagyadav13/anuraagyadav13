@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Anurag Yadav  
 
-🚀 **Full Stack Developer** (React.js, Node.js, Express, MongoDB)  
+🚀 **Full Stack Developer** (React.js, Node.js, Express, MongoDB,PSQL, AWS, Docker)  
 🌱 Currently learning **Next.js** and **AI integrations**  
 💡 Ask me about **Node.js, React, and APIs**  
 📫 Reach me at: **anutechx2707@gmail.com**  
@@ -10,8 +10,8 @@
 ## 🔧 Tech Stack
 - **Frontend**: React.js, Next.js, EJS, HTML, CSS, JavaScript  
 - **Backend**: Node.js, Express.js, Redis  
-- **Database**: MongoDB, MySQL  
-- **Other**: Git, REST APIs, Postman  
+- **Database**: MongoDB, MySQL, PSQL  
+- **Other**: Git, REST APIs, Postman, AWS. Docker  
 
 ---
 
@@ -23,7 +23,7 @@
 ---
 
 ## 🌟 Featured Projects
-- [UrbanThreads](https://github.com/anuraagyadav13/UrbanThreads-) – 🛍️ Full E-Commerce Website  
+- [UrbanThreads](https://github.com/anuraagyadav13/HRT-) – 🛍️ ERP  
 - [Contact API](https://github.com/anuraagyadav13/ContactAPI) – 📞 REST API for managing contacts  
 - [URL Shortener](https://github.com/anuraagyadav13/URL_Shortner) – 🔗 Simple URL shortener  
 - [Employee Management](https://github.com/anuraagyadav13/Employee-Managment) – 👨‍💼 Employee CRUD system  
