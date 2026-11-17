@@ -136,25 +136,29 @@ An integrated school management platform for academic and administrative automat
 
 <br/>
 
+
 ## 03 / GITHUB ANALYTICS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anuraagyadav13&show_icons=true&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1&icon_color=38BDF8"/>
+### CONTRIBUTION STREAK
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraagyadav13&layout=compact&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1"/>
-
-<br/><br/>
-
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=anuraagyadav13&hide_border=true&background=0B1220&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=94A3B8"/>
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=anuraagyadav13&theme=tokyonight&hide_border=true&background=0B1220&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&currStreakNum=E2E8F0&sideLabels=CBD5E1&sideNums=E2E8F0&dates=94A3B8"/>
 
 <br/><br/>
+
+### CONTRIBUTION ACTIVITY
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anuraagyadav13&bg_color=0B1220&color=CBD5E1&line=38BDF8&point=FFFFFF&area=true&hide_border=true"/>
 
+<br/>
+
+<a href="https://github.com/anuraagyadav13">
+  <img src="https://img.shields.io/badge/VIEW%20ALL%20CONTRIBUTIONS-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </div>
 
-<br/>
 
 ## 04 / OTHER PROJECTS
 
