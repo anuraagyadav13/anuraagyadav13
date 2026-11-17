@@ -1,24 +1,18 @@
- <div align="center">
+<!-- HERO SECTION -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B1220&height=190&section=header&text=ANURAG%20YADAV&fontSize=52&fontColor=E2E8F0&fontAlignY=42&desc=FULL%20STACK%20DEVELOPER%20%20%7C%20%20SAAS%20BUILDER&descSize=15&descColor=38BDF8&descAlignY=68" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:0891B2&height=220&section=header&text=ANURAG%20YADAV&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20SaaS%20Builder&descAlignY=58&descSize=18" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Real+World+SaaS+Products;React.js+%7C+Next.js+%7C+Node.js;Turning+Ideas+Into+Scalable+Products;Exploring+AI+%26+Cloud+Technologies" alt="Typing SVG"/>
+</a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=I+build+products%2C+not+just+projects.;Engineering+scalable+web+applications.;Turning+business+problems+into+software." />
-
-<br/><br/>
-
-[![Portfolio](https://img.shields.io/badge/REAL--WORLD%20PRODUCTS-2-0EA5E9?style=flat-square)](https://github.com/anuraagyadav13)
-[![GitHub](https://img.shields.io/badge/GITHUB-anuraagyadav13-1E293B?style=flat-square&logo=github)](https://github.com/anuraagyadav13)
-[![Email](https://img.shields.io/badge/CONTACT-EMAIL-1E293B?style=flat-square&logo=gmail)](mailto:anutechx2707@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=anuraagyadav13&label=PROFILE+VIEWS&color=0891b2&style=for-the-badge" />
 
 </div>
-
-<br/>
-
-<table>
-<tr>
-<td width="65%" valign="top">
 
 ### ABOUT
 
