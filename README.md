@@ -1,36 +1,57 @@
  <div align="center">
 
-<!-- Upload the generated white design image into your repository as assets/profile-hero.png -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B1220&height=190&section=header&text=ANURAG%20YADAV&fontSize=52&fontColor=E2E8F0&fontAlignY=42&desc=FULL%20STACK%20DEVELOPER%20%20%7C%20%20SAAS%20BUILDER&descSize=15&descColor=38BDF8&descAlignY=68" />
 
-<img src="./assets/profile-hero.png" width="100%" alt="Anurag Yadav - Full Stack Developer and SaaS Builder"/>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=I+build+products%2C+not+just+projects.;Engineering+scalable+web+applications.;Turning+business+problems+into+software." />
+
+<br/><br/>
+
+[![Portfolio](https://img.shields.io/badge/REAL--WORLD%20PRODUCTS-2-0EA5E9?style=flat-square)](https://github.com/anuraagyadav13)
+[![GitHub](https://img.shields.io/badge/GITHUB-anuraagyadav13-1E293B?style=flat-square&logo=github)](https://github.com/anuraagyadav13)
+[![Email](https://img.shields.io/badge/CONTACT-EMAIL-1E293B?style=flat-square&logo=gmail)](mailto:anutechx2707@gmail.com)
 
 </div>
 
 <br/>
 
-<div align="center">
+<table>
+<tr>
+<td width="65%" valign="top">
 
-<a href="https://github.com/anuraagyadav13">
-<img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/anuragyadav27">
-<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:anutechx2707@gmail.com">
-<img src="https://img.shields.io/badge/Email-6366F1?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
+### ABOUT
 
-</div>
+I'm Anurag, a Full Stack Developer focused on building practical, scalable software products.
 
----
+My work spans frontend engineering, backend architecture, database design, API development and cloud deployment.
 
-<div align="center">
+Currently focused on building SaaS platforms and exploring AI-powered applications.
 
-# SELECTED PRODUCTS
+</td>
+<td width="35%" valign="top">
 
-*Building software that solves real business problems.*
+### QUICK INFO
 
-</div>
+**Role**  
+Full Stack Developer
+
+**Focus**  
+SaaS & Backend Engineering
+
+**Currently learning**  
+AI Integrations & Next.js
+
+**Location**  
+India
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 01 / SELECTED PRODUCTS
 
 <table>
 <tr>
@@ -38,122 +59,129 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/01-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/01-REAL%20ESTATE-2563EB?style=flat-square"/>
 
-# SpaceEzy
+### SPACE E Z Y
 
 **Real Estate CRM**
 
 </div>
 
-A platform designed to streamline real estate business operations, property management and sales workflows.
+A business management platform designed to streamline real estate operations and sales workflows.
 
-**Key Modules**
-
-- Lead Management
-- Property & Inventory
-- Sales Pipeline
-- Site Visit Management
-- Booking Management
+- Lead management
+- Property & inventory
+- Sales pipeline
+- Site visit management
+- Booking management
 
 <div align="center">
 
-[Explore SpaceEzy ↗](https://www.spaceezy.com)
+[VISIT WEBSITE ↗](https://www.spaceezy.com)
 
 </div>
-
 </td>
 <td width="50%" valign="top">
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/02-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/02-EDTECH-0891B2?style=flat-square"/>
 
-# Sharnex
+### SHARNEX
 
 **School ERP Platform**
 
 </div>
 
-A comprehensive school management platform for digitizing academic and administrative operations.
+An integrated school management platform for academic and administrative automation.
 
-**Key Modules**
-
-- Student & Staff Management
-- Attendance & Examination
-- Results & Timetable
-- Transport & Bus Tracking
-- Fees, Payroll & Library
+- Student & staff management
+- Attendance & examination
+- Results & timetable
+- Transport & bus tracking
+- Fees, payroll & library
 
 <div align="center">
 
-[Explore Sharnex ↗](https://www.sharnex.com)
+[VISIT WEBSITE ↗](https://www.sharnex.com)
 
 </div>
-
 </td>
 </tr>
 </table>
 
----
+<br/>
+
+## 02 / TECHNOLOGY STACK
 
 <div align="center">
 
-# TECHNOLOGY
+**FRONTEND**
 
-*Tools and technologies I work with.*
-
-<br/>
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind&theme=light"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind&theme=dark" />
 
 <br/><br/>
 
-**Backend & Database**
+**BACKEND & DATABASE**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,redis&theme=light"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,redis&theme=dark" />
 
 <br/><br/>
 
-**Cloud & Tools**
+**CLOUD & DEVELOPMENT TOOLS**
 
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman&theme=light"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode&theme=dark" />
 
 </div>
 
----
+<br/>
+
+
+## 03 / GITHUB ANALYTICS
 
 <div align="center">
 
-# GITHUB ACTIVITY
+### CONTRIBUTION STREAK
 
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=anuraagyadav13&theme=default&hide_border=true&background=FFFFFF&ring=2563EB&fire=6366F1&currStreakLabel=2563EB"/>
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=anuraagyadav13&theme=tokyonight&hide_border=true&background=0B1220&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&currStreakNum=E2E8F0&sideLabels=CBD5E1&sideNums=E2E8F0&dates=94A3B8"/>
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anuraagyadav13&bg_color=FFFFFF&color=475569&line=2563EB&point=6366F1&area=true&hide_border=true"/>
+### CONTRIBUTION ACTIVITY
 
-</div>
-
----
-
-<div align="center">
-
-# LET'S CONNECT
-
-**Have an idea? Let's build something meaningful.**
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anuraagyadav13&bg_color=0B1220&color=CBD5E1&line=38BDF8&point=FFFFFF&area=true&hide_border=true"/>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/anuragyadav27">LinkedIn</a> &nbsp; · &nbsp;
-<a href="mailto:anutechx2707@gmail.com">Email</a> &nbsp; · &nbsp;
-<a href="https://github.com/anuraagyadav13">GitHub</a> &nbsp; · &nbsp;
-<a href="https://leetcode.com/u/anuragyadav2707/">LeetCode</a>
+<a href="https://github.com/anuraagyadav13">
+  <img src="https://img.shields.io/badge/VIEW%20ALL%20CONTRIBUTIONS-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+
+## 04 / OTHER PROJECTS
+
+| PROJECT | DESCRIPTION |
+|:--|:--|
+| [Contact API](https://github.com/anuraagyadav13/ContactAPI) | REST API for contact management |
+| [URL Shortener](https://github.com/anuraagyadav13/URL_Shortner) | URL shortening service |
+| [Employee Management](https://github.com/anuraagyadav13/Employee-Managment) | Employee CRUD management |
+
+<br/>
+
+## 05 / LET'S CONNECT
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/anuragyadav27"><img src="https://img.shields.io/badge/LINKEDIN-0B1220?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/></a>
+<a href="https://leetcode.com/u/anuragyadav2707/"><img src="https://img.shields.io/badge/LEETCODE-0B1220?style=for-the-badge&logo=leetcode&logoColor=F59E0B"/></a>
+<a href="mailto:anutechx2707@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B1220?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
 
 <br/><br/>
 
-*BUILD. INNOVATE. SCALE.*
+**BUILDING SOFTWARE THAT MAKES A DIFFERENCE.**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B1220&height=100&section=footer"/>
 
 </div>
