@@ -1,57 +1,73 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B1220&height=190&section=header&text=ANURAG%20YADAV&fontSize=52&fontColor=E2E8F0&fontAlignY=42&desc=FULL%20STACK%20DEVELOPER%20%20%7C%20%20SAAS%20BUILDER&descSize=15&descColor=38BDF8&descAlignY=68" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:EFF6FF,50:F5F3FF,100:DBEAFE&height=190&section=header&text=ANURAG%20YADAV&fontSize=52&fontColor=111827&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER%20%7C%20SAAS%20BUILDER&descSize=16&descColor=2563EB&descAlignY=68"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=I+build+products%2C+not+just+projects.;Engineering+scalable+web+applications.;Turning+business+problems+into+software." />
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Turning+business+problems+into+scalable+software.;Building+real-world+SaaS+products.;Engineering+solutions+that+make+a+difference." alt="Typing SVG"/>
+</a>
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/REAL--WORLD%20PRODUCTS-2-0EA5E9?style=flat-square)](https://github.com/anuraagyadav13)
-[![GitHub](https://img.shields.io/badge/GITHUB-anuraagyadav13-1E293B?style=flat-square&logo=github)](https://github.com/anuraagyadav13)
-[![Email](https://img.shields.io/badge/CONTACT-EMAIL-1E293B?style=flat-square&logo=gmail)](mailto:anutechx2707@gmail.com)
+<a href="https://github.com/anuraagyadav13">
+<img src="https://img.shields.io/badge/GitHub-anuraagyadav13-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/anuragyadav27">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:anutechx2707@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-6366F1?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=anuraagyadav13&label=PROFILE+VIEWS&color=2563EB&style=flat-square"/>
 
 </div>
 
-<br/>
+---
+
+## ABOUT ME
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="62%" valign="top">
 
-### ABOUT
+### Building technology that solves real problems.
 
-I'm Anurag, a Full Stack Developer focused on building practical, scalable software products.
+I'm Anurag Yadav, a Full Stack Developer passionate about developing scalable web applications, SaaS platforms and backend systems.
 
 My work spans frontend engineering, backend architecture, database design, API development and cloud deployment.
 
-Currently focused on building SaaS platforms and exploring AI-powered applications.
+Currently building real-world products while exploring AI integrations and modern web technologies.
 
 </td>
-<td width="35%" valign="top">
+<td width="38%" valign="top">
 
 ### QUICK INFO
 
-**Role**  
-Full Stack Developer
-
-**Focus**  
-SaaS & Backend Engineering
-
-**Currently learning**  
-AI Integrations & Next.js
-
-**Location**  
-India
+| | |
+|:--|:--|
+| **Role** | Full Stack Developer |
+| **Focus** | SaaS & Backend Engineering |
+| **Learning** | AI & Next.js |
+| **Location** | India |
+| **Email** | anutechx2707@gmail.com |
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-## 01 / SELECTED PRODUCTS
+## 01 / FEATURED PRODUCTS
+
+<div align="center">
+
+### PRODUCTS BUILT FOR REAL-WORLD BUSINESSES
+
+</div>
 
 <table>
 <tr>
@@ -59,83 +75,104 @@ India
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/01-REAL%20ESTATE-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/PRODUCT-01-2563EB?style=flat-square"/>
 
-### SPACE E Z Y
+## SPACE E Z Y
 
-**Real Estate CRM**
+### Real Estate CRM
 
 </div>
 
-A business management platform designed to streamline real estate operations and sales workflows.
+A real estate CRM platform designed to streamline property business operations, sales workflows and lead management.
 
-- Lead management
-- Property & inventory
-- Sales pipeline
-- Site visit management
-- Booking management
+**Core Modules**
+
+- Lead Management
+- Property & Inventory Management
+- Sales Pipeline
+- Site Visit Management
+- Booking Management
+
+<br/>
 
 <div align="center">
 
-[VISIT WEBSITE ↗](https://www.spaceezy.com)
+<a href="https://www.spaceezy.com">
+<img src="https://img.shields.io/badge/EXPLORE%20SPACE%E2%80%A2EZY-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
 </div>
+
 </td>
 <td width="50%" valign="top">
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/02-EDTECH-0891B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/PRODUCT-02-6366F1?style=flat-square"/>
 
-### SHARNEX
+## SHARNEX
 
-**School ERP Platform**
+### School ERP Platform
 
 </div>
 
-An integrated school management platform for academic and administrative automation.
+A comprehensive school management platform designed to digitize academic and administrative operations.
 
-- Student & staff management
-- Attendance & examination
-- Results & timetable
-- Transport & bus tracking
-- Fees, payroll & library
+**Core Modules**
+
+- Student & Staff Management
+- Attendance Management
+- Examination & Results
+- Smart Timetable Management
+- Transport & Live Bus Tracking
+- Fees & Payroll Management
+- Library Management
+
+<br/>
 
 <div align="center">
 
-[VISIT WEBSITE ↗](https://www.sharnex.com)
+<a href="https://www.sharnex.com">
+<img src="https://img.shields.io/badge/EXPLORE%20SHARNEX-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
 </div>
+
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
 ## 02 / TECHNOLOGY STACK
 
 <div align="center">
 
-**FRONTEND**
+### FRONTEND DEVELOPMENT
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind&theme=dark" />
-
-<br/><br/>
-
-**BACKEND & DATABASE**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap&theme=light"/>
 
 <br/><br/>
 
-**CLOUD & DEVELOPMENT TOOLS**
+### BACKEND DEVELOPMENT
 
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=light"/>
+
+<br/><br/>
+
+### DATABASE & CACHING
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=light"/>
+
+<br/><br/>
+
+### CLOUD & DEVOPS
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode&theme=light"/>
 
 </div>
 
-<br/>
-
+---
 
 ## 03 / GITHUB ANALYTICS
 
@@ -143,45 +180,67 @@ An integrated school management platform for academic and administrative automat
 
 ### CONTRIBUTION STREAK
 
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=anuraagyadav13&theme=tokyonight&hide_border=true&background=0B1220&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&currStreakNum=E2E8F0&sideLabels=CBD5E1&sideNums=E2E8F0&dates=94A3B8"/>
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=anuraagyadav13&theme=default&hide_border=true&background=F8FAFC&ring=2563EB&fire=6366F1&currStreakLabel=2563EB&currStreakNum=111827&sideLabels=475569&sideNums=111827&dates=64748B"/>
 
 <br/><br/>
 
 ### CONTRIBUTION ACTIVITY
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anuraagyadav13&bg_color=0B1220&color=CBD5E1&line=38BDF8&point=FFFFFF&area=true&hide_border=true"/>
-
-<br/>
-
-<a href="https://github.com/anuraagyadav13">
-  <img src="https://img.shields.io/badge/VIEW%20ALL%20CONTRIBUTIONS-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anuraagyadav13&bg_color=ffffff&color=475569&line=2563EB&point=6366F1&area=true&hide_border=true"/>
 
 </div>
 
+---
 
 ## 04 / OTHER PROJECTS
 
-| PROJECT | DESCRIPTION |
-|:--|:--|
-| [Contact API](https://github.com/anuraagyadav13/ContactAPI) | REST API for contact management |
-| [URL Shortener](https://github.com/anuraagyadav13/URL_Shortner) | URL shortening service |
-| [Employee Management](https://github.com/anuraagyadav13/Employee-Managment) | Employee CRUD management |
+<table>
+<tr>
+<th>PROJECT</th>
+<th>DESCRIPTION</th>
+<th>LINK</th>
+</tr>
+<tr>
+<td><b>Contact API</b></td>
+<td>REST API for managing contacts</td>
+<td><a href="https://github.com/anuraagyadav13/ContactAPI">View Project ↗</a></td>
+</tr>
+<tr>
+<td><b>URL Shortener</b></td>
+<td>URL shortening application</td>
+<td><a href="https://github.com/anuraagyadav13/URL_Shortner">View Project ↗</a></td>
+</tr>
+<tr>
+<td><b>Employee Management</b></td>
+<td>Employee CRUD management system</td>
+<td><a href="https://github.com/anuraagyadav13/Employee-Managment">View Project ↗</a></td>
+</tr>
+</table>
 
-<br/>
+---
 
 ## 05 / LET'S CONNECT
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/anuragyadav27"><img src="https://img.shields.io/badge/LINKEDIN-0B1220?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/></a>
-<a href="https://leetcode.com/u/anuragyadav2707/"><img src="https://img.shields.io/badge/LEETCODE-0B1220?style=for-the-badge&logo=leetcode&logoColor=F59E0B"/></a>
-<a href="mailto:anutechx2707@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B1220?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
+### HAVE AN IDEA? LET'S BUILD IT.
+
+<a href="https://www.linkedin.com/in/anuragyadav27">
+<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/anuragyadav2707/">
+<img src="https://img.shields.io/badge/LeetCode-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+<a href="mailto:anutechx2707@gmail.com">
+<img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <br/><br/>
 
-**BUILDING SOFTWARE THAT MAKES A DIFFERENCE.**
+**BUILD. INNOVATE. SCALE.**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B1220&height=100&section=footer"/>
+*Turning ideas into products that solve real-world problems.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,50:F5F3FF,100:EFF6FF&height=100&section=footer"/>
 
 </div>
