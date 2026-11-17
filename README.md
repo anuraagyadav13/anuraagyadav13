@@ -33,8 +33,7 @@ Full Stack Developer
 **Focus**  
 SaaS & Backend Engineering
 
-**Currently learning**  
-AI Integrations & Next.js
+
 
 **Location**  
 India
